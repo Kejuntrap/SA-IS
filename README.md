@@ -2,7 +2,7 @@
 
 Suffix Array Induced Sorting (SA-IS)
 
-[解説記事](trap.jp/post/953)
+[解説記事](https://trap.jp/post/953/)
 
 
 
