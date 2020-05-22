@@ -1,3 +1,5 @@
+![](https://img.shields.io/github/license/Kejuntrap/SA-IS)
+![](https://img.shields.io/github/issues/Kejuntrap/SA-IS)
 # SAIS.java
 
 Suffix Array Induced Sorting (SA-IS)
