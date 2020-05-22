@@ -17,5 +17,7 @@ input <- toukoudai
 output -> SuffixArray[7,6,8,3,4,1,0,5,2]
 ```
 
+### licence
 
+MIT
 
